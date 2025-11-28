@@ -1,0 +1,30 @@
+/.venv
+/.vscode
+/analyze_results.py
+/heat3d_pthreads.exe
+/matlab_result.mat
+/matlab_results.bin
+/matlab_visualization.png
+/mpi.sbatch
+/mpi_5835515.out
+/mpi_results.bin
+/multithreads.m
+/old
+/openmp.sbatch
+/openmp_5836036.out
+/openmp_results.bin
+/pthreads.sbatch
+/pthreads_5840137.out
+/pthreads_results.bin
+/python_mpi.sbatch
+/python_mpi_5835514.out
+/python_mpi_results.bin
+/python_mpi_results_exact.bin
+/validate.py
+/анализ_производительности_1.png
+/анализ_производительности_2.png
+/анализ_производительности_3.png
+/анализ_производительности_4.png
+/Запуск.txt
+/Основное задание.docx
+/Основное задание.pdf
